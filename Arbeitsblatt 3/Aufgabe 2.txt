@@ -1,0 +1,10 @@
+x1 Int	42
+x2 Double 3.1415
+x3 String hello world
+x4 Double 101.0
+x5 boolean false
+x6 boolean true
+x7 string 12
+x8 Int 0 double 0.0
+x9 bollean true
+x10 Int 44
