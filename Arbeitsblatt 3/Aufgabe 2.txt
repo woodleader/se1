@@ -6,5 +6,5 @@ x5 boolean false
 x6 boolean true
 x7 string 12
 x8 Int 0 double 0.0
-x9 bollean true
+x9 boolean true
 x10 Int 44
