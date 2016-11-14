@@ -11,6 +11,6 @@ public class log { // log
 		System.out.println("step:" + z);
 		n = n + 1;
 	}
-		System.out.println("Log:" + n);
+		System.out.println("Log:" + (n-1);
 	}
 }
