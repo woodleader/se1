@@ -1,4 +1,5 @@
-//Ohne e und f
+/* ohne e und f bzw f wird bei mir bereits in der drawbar prozedur angewandt wenn auch in einer anderen form.
+ * Hierbei habe ich den maximalwert auf 0.7 gesetzt um noch Platz zum oberen Rand zu haben*/
 
 public class BarChart {
 	public static void main(String [] args) {
