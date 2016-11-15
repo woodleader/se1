@@ -1,3 +1,5 @@
+//Ohne e und f
+
 public class GraphBeispiel {
 	public static void main(String [] args) {
 		double width = Double.parseDouble(args [0]);
