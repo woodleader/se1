@@ -1,6 +1,6 @@
 //Ohne e und f
 
-public class GraphBeispiel {
+public class BarChart {
 	public static void main(String [] args) {
 		double width = Double.parseDouble(args [0]);
 		double gap = Double.parseDouble(args [1]);
