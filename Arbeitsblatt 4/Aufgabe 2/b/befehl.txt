@@ -1,0 +1,1 @@
+java Range 0 100 1 | java SqrtTable > data.txt
