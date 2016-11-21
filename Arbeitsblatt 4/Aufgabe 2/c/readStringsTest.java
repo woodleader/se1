@@ -1,12 +1,7 @@
 import java.util.Arrays;
 
-public class readStrings {
+public class readStringsTest {
 	public static void main(String [] args) {
-	String [] a = readStrings();
-	System.out.println(Arrays.toString(a));
-	}
-	
-	public static String[] readStrings(){
 	String [] a = new String[5];
 	int n = 0;
 	
@@ -25,8 +20,7 @@ public class readStrings {
 			}
 			
 		}
-		
-	return a;
+	System.out.println(Arrays.toString(a));
 	}
 }
 
